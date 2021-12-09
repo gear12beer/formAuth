@@ -1,4 +1,5 @@
 Basic form + login logout using google
+A basic register form also created.
 
 
 # Getting Started with Create React App
